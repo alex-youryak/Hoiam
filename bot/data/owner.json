@@ -1,0 +1,4 @@
+{
+  "_comment": "This file is deprecated. Owner number is now configured via BOT_OWNER environment variable or config.js",
+  "ownerNumber": "923023220549@s.whatsapp.net"
+}
